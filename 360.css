@@ -1,0 +1,72 @@
+.xinwen1{
+        margin-left: 0px;
+        margin-right: 0px;
+        height: 10px;
+        width: 50px;
+        float: right;
+        clear: both;
+    
+}
+.xinwen1::after{
+        content: " ";
+        display: block;
+        clear: both;
+}
+.xinwen2{
+	display: inline-block;
+	margin-right: 10px;
+}
+.xinwen{
+	margin-left: 0px;
+	margin-right: 10px;
+	float: right;
+
+}
+.tupian{
+	margin-left:300px;
+	margin-bottom: 0px;
+	border-bottom: 0px;
+	padding-bottom: 0px;
+	width: 400px;
+	height: 200px;
+}
+.kuang{
+	margin-top:70px;
+    padding-left: 250px;
+	margin-left: 100px;
+	height: 150px;
+	width: 500px;
+
+}
+input.tt{
+	height: 25px;
+    width: 400px;
+    color: blue;
+    margin-bottom: 1000px;
+}
+.wei{
+	height: 20px;
+	width: 8000px;
+	margin-left: 0px;
+}
+
+.bai{
+	height: 10px;
+	width: 100px;
+	float: left;
+	padding-left: 5px;
+	padding-right: 0;
+	font-size: 5px;
+	margin-left: 1px;
+}
+.bai1{
+	height: 10px;
+	width: 100px;
+	float: left;
+	padding-left: 5px;
+	padding-right: 0;
+	font-size: 5px;
+	margin-left: 1px;
+}
+
+
